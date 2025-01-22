@@ -1,8 +1,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/prasanna2006)](https://leetcode.com/prasanna2006?ext=heatmap)
