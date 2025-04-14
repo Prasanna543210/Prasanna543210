@@ -64,5 +64,3 @@
 
 ---
 
-## ❤️ Support Me  
-If you like my work, consider giving a ⭐️ to my repositories or [buying me a coffee](https://www.buymeacoffee.com/Prasanna)!  
