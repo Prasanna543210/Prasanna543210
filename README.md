@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
-
-<h1 align="center">Prasanna B</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAB&center=true&vCenter=true&width=700&lines=Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;400%2B+LeetCode+Problems;Software+Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAB&center=true&vCenter=true&width=700&lines=Prasanna+B;Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;Software+Engineering+Enthusiast" />
 </p>
 
 ---
@@ -56,7 +50,7 @@ Solved 400+ problems on LeetCode covering data structures, trees, graphs, dynami
 
 ### Certification Tracker System
 
-Tech Stack: React, Node.js, Express.js, MongoDB
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
 * Implemented role-based authentication using JWT
 * Designed certificate verification workflow
@@ -66,7 +60,7 @@ Tech Stack: React, Node.js, Express.js, MongoDB
 
 ### AI-Powered File Management System
 
-Tech Stack: React, Flask, MongoDB
+**Tech Stack:** React, Flask, MongoDB
 
 * Built secure document management system with access control
 * Designed APIs for upload, approval, and validation
@@ -76,7 +70,7 @@ Tech Stack: React, Flask, MongoDB
 
 ### Personalized Campus Web Application
 
-Tech Stack: React, Flask, MongoDB
+**Tech Stack:** React, Flask, MongoDB
 
 * Developed event registration and placement tracking system
 * Built discussion forum for communication
@@ -85,11 +79,7 @@ Tech Stack: React, Flask, MongoDB
 
 ### Driver Monitoring System
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p>
-
-Tech Stack: Flutter, Twilio API
+**Tech Stack:** Flutter, Twilio API
 
 * Detects driver behavior
 * Sends alerts for unsafe activity
@@ -155,7 +145,7 @@ Email: [prasanna19042006@gmail.com](mailto:prasanna19042006@gmail.com)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:00C2FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:00C2FF&height=100&section=footer"/>
 </p>
 
 Always building, learning, and improving through code.
