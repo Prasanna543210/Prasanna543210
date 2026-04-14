@@ -1,23 +1,25 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/1gQwMNJ9z1mqABgQd3/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Prasanna B</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=00FFAB&center=true&vCenter=true&width=800&lines=%24+whoami;Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;%24+solved+400%2B+DSA+problems;%24+building+scalable+systems..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=8A2BE2&center=true&vCenter=true&width=900&lines=%24+initialize+hunter;Rank%3A+Shadow+Monarch;Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;%24+solved+400%2B+problems" />
 </p>
 
 ---
 
-## Terminal Profile
+## System Console
 
 ```bash
+> initializing profile...
 > name: Prasanna B
 > role: Backend & Full Stack Developer
 > education: B.Tech IT (2023–2027)
 > location: Tamil Nadu, India
-> focus: scalable systems, backend engineering
+> specialization: scalable backend systems
+> status: leveling up
 ```
 
 ---
@@ -25,10 +27,10 @@
 ## About Me
 
 ```bash
-> Passionate about building efficient and scalable applications
-> Strong in data structures and problem solving
-> Experienced with MERN stack and Flask
-> Focused on clean architecture and real-world systems
+> building efficient and scalable applications
+> strong in data structures and problem solving
+> experienced in MERN stack and Flask
+> focused on clean architecture and real-world systems
 ```
 
 ---
@@ -38,7 +40,7 @@
 ```bash
 > platform: LeetCode
 > problems_solved: 400+
-> topics: arrays, trees, graphs, dp, greedy
+> focus: DSA, Trees, Graphs, DP, Greedy
 ```
 
 <p align="center">
@@ -50,22 +52,24 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanna543210&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasanna543210&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prasanna543210&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prasanna543210&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna543210&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna543210&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Contribution Graph
 
-![snake gif](https://github.com/Prasanna543210/Prasanna543210/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Prasanna543210/Prasanna543210/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -123,6 +127,20 @@
 
 ---
 
+## Favorite Song
+
+<p align="center">
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Replace this with your actual favorite song link
+</p>
+
+---
+
 ## Contact
 
 <p align="center">
@@ -143,14 +161,6 @@
 
 ---
 
-## Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasanna543210&color=00ffab" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:000000&height=100&section=footer"/>
 </p>
