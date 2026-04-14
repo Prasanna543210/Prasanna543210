@@ -1,37 +1,48 @@
-<h1 align="center">Hey there 👋, I'm Prasanna</h1>
-<h3 align="center">Full-Stack Developer · Football Player · Lifelong Learner</h3>
+<h1 align="center">Hi, I'm Prasanna</h1>
+<h3 align="center">Full-Stack Developer &nbsp;·&nbsp; Football Player &nbsp;·&nbsp; Lifelong Learner</h3>
 
 <br/>
 
 ---
 
-## 💫 About Me
+## About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggaDSurtR6YN9MsW07/giphy.gif" alt="coding gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F700FF&width=500&lines=Passionate+Full-Stack+Developer+%F0%9F%92%BB;Building+scalable+%26+beautiful+web+apps;Football+player+%E2%9A%BD+%7C+Team+Player+%F0%9F%A4%9D;Clean+code+%7C+Smooth+UX+%7C+Real+Impact;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&width=460&lines=Passionate+Full-Stack+Developer;Building+scalable+%26+beautiful+web+apps;Football+player+%7C+Team+Player;Clean+code+%7C+Smooth+UX+%7C+Real+Impact;Always+learning%2C+always+growing" alt="Typing SVG" />
 
-I'm a passionate developer who enjoys building **efficient, scalable, and visually engaging** web applications. I focus on writing clean code and creating smooth user experiences using modern technologies.
+<br/>
 
-Beyond coding, I'm also a **football player ⚽**. The game has taught me discipline, teamwork, and consistency — qualities I bring into my development work every day.
+I'm a passionate developer who enjoys building efficient, scalable, and visually engaging web applications. I focus on writing clean code and creating smooth user experiences using modern technologies.
 
-Whether it's on the field or in front of a screen, I strive to **improve, adapt, and perform at my best.**
+Beyond coding, I'm also a football player. The game has taught me discipline, teamwork, and consistency — qualities I bring into my development work every day.
 
-- 🔭 I'm always working on something new
-- 🌱 Continuously learning and growing
-- ⚡ Fun fact: I debug code like I defend on the pitch — relentlessly
+Whether it's on the field or in front of a screen, I strive to improve, adapt, and perform at my best.
 
-<br clear="right"/>
+- I'm always working on something new
+- Continuously learning and growing
+- I debug code like I defend on the pitch — relentlessly
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggaDSurtR6YN9MsW07/giphy.gif" width="260" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-b-b212a52b8/)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -91,25 +102,25 @@ Whether it's on the field or in front of a screen, I strive to **improve, adapt,
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Prasanna543210&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Prasanna543210&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Prasanna543210&theme=radical&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Prasanna543210&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prasanna543210&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prasanna543210&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Prasanna543210&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Prasanna543210&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -117,8 +128,6 @@ Whether it's on the field or in front of a screen, I strive to **improve, adapt,
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Prasanna543210&icon=5&color=2)](https://visitcount.itsvg.in)
-
-*Thanks for visiting! Drop a ⭐ if you find my work useful.*
+[![](https://komarev.com/ghpvc/?username=Prasanna543210&color=58A6FF&style=flat)](https://visitcount.itsvg.in)
 
 </div>
