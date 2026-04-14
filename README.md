@@ -126,6 +126,39 @@ Whether it's on the field or in front of a screen, I strive to improve, adapt, a
 
 ---
 
+## Developer Reality Check
+
+<table border="0" cellpadding="16" align="center">
+<tr>
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 8px;">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2YzJhcXhiMDVpcHB1am8xcWxnYWI4ZThwZHo2cjBrYmVtZnQ1dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rccJYeZQvrWsRFeRQz/giphy.gif" width="100%" alt="team in chaos" />
+
+<br/>
+
+**The team calling me when production is down**
+
+</td>
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 8px;">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9JSbtb3693vfLEKPrp/giphy.gif" width="100%" alt="me fixing that one bug" />
+
+<br/>
+
+**Me,fixing that one bug**
+
+</td>
+</tr>
+</table>
+
+<div align="center"><br/>
+
+
+
+</div>
+
+---
+
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Prasanna543210&color=58A6FF&style=flat)](https://visitcount.itsvg.in)
