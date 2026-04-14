@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="280" src="YOUR_GIF_URL_HERE" alt="coding gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggaDSurtR6YN9MsW07/giphy.gif" alt="coding gif" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F700FF&width=500&lines=Passionate+Full-Stack+Developer+%F0%9F%92%BB;Building+scalable+%26+beautiful+web+apps;Football+player+%E2%9A%BD+%7C+Team+Player+%F0%9F%A4%9D;Clean+code+%7C+Smooth+UX+%7C+Real+Impact;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
