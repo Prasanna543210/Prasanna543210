@@ -1,22 +1,45 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAB&center=true&vCenter=true&width=700&lines=Prasanna+B;Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;Software+Engineering+Enthusiast" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="100%" />
 </p>
+
+<h1 align="center">Prasanna B</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=00FFAB&center=true&vCenter=true&width=800&lines=%24+whoami;Backend+%26+Full+Stack+Developer;MERN+%7C+Flask+%7C+MongoDB;%24+solved+400%2B+DSA+problems;%24+building+scalable+systems..." />
+</p>
+
+---
+
+## Terminal Profile
+
+```bash
+> name: Prasanna B
+> role: Backend & Full Stack Developer
+> education: B.Tech IT (2023–2027)
+> location: Tamil Nadu, India
+> focus: scalable systems, backend engineering
+```
 
 ---
 
 ## About Me
 
-B.Tech Information Technology — Bannari Amman Institute of Technology (2023–2027)
-Ramanathapuram, Tamil Nadu, India
-
-Pre-final year student focused on backend engineering, scalable systems, and problem solving.
-Experience in building RESTful APIs and full-stack applications using MERN stack and Flask.
+```bash
+> Passionate about building efficient and scalable applications
+> Strong in data structures and problem solving
+> Experienced with MERN stack and Flask
+> Focused on clean architecture and real-world systems
+```
 
 ---
 
 ## Competitive Programming
 
-Solved 400+ problems on LeetCode covering data structures, trees, graphs, dynamic programming, and greedy algorithms.
+```bash
+> platform: LeetCode
+> problems_solved: 400+
+> topics: arrays, trees, graphs, dp, greedy
+```
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/prasanna2006" />
@@ -48,46 +71,39 @@ Solved 400+ problems on LeetCode covering data structures, trees, graphs, dynami
 
 ## Projects
 
-### Certification Tracker System
+```bash
+> Certification Tracker System
+  stack: React, Node.js, MongoDB
+  features:
+    - JWT authentication
+    - role-based access
+    - certificate workflow
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+> AI File Management System
+  stack: React, Flask, MongoDB
+  features:
+    - secure file handling
+    - approval workflow
+    - expiry automation
 
-* Implemented role-based authentication using JWT
-* Designed certificate verification workflow
-* Optimized MongoDB queries using aggregation pipelines
+> Campus Web Application
+  stack: React, Flask, MongoDB
+  features:
+    - event registration
+    - placement tracking
+    - discussion forum
 
----
-
-### AI-Powered File Management System
-
-**Tech Stack:** React, Flask, MongoDB
-
-* Built secure document management system with access control
-* Designed APIs for upload, approval, and validation
-* Implemented automated expiry policies
-
----
-
-### Personalized Campus Web Application
-
-**Tech Stack:** React, Flask, MongoDB
-
-* Developed event registration and placement tracking system
-* Built discussion forum for communication
-
----
-
-### Driver Monitoring System
-
-**Tech Stack:** Flutter, Twilio API
-
-* Detects driver behavior
-* Sends alerts for unsafe activity
-* Supports real-time monitoring
+> Driver Monitoring System
+  stack: Flutter, Twilio
+  features:
+    - behavior detection
+    - alert system
+    - real-time tracking
+```
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,nodejs,express,flask,react,mongodb,mysql,git,github,vscode,postman&perline=7"/>
@@ -97,21 +113,13 @@ Solved 400+ problems on LeetCode covering data structures, trees, graphs, dynami
 
 ## Achievements
 
-* Thematic Award — Cybersecurity and Digital Trust
-  Ideathon 2025, Florida International University
+```bash
+> Thematic Award — Cybersecurity & Digital Trust
+  Ideathon 2025
 
-* NPTEL Certification — Social Networks
+> NPTEL Certification — Social Networks
   IIT Madras
-
----
-
-## Coursework
-
-* Data Structures and Algorithms
-* Database Management Systems
-* Operating Systems
-* Object-Oriented Programming
-* Software Engineering
+```
 
 ---
 
@@ -129,23 +137,20 @@ Solved 400+ problems on LeetCode covering data structures, trees, graphs, dynami
   </a>
 </p>
 
-Email: [prasanna19042006@gmail.com](mailto:prasanna19042006@gmail.com)
+```bash
+> email: prasanna19042006@gmail.com
+```
 
 ---
 
-## Badges
+## Profile Views
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-400%2B-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Prasanna543210&color=00ffab" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:00C2FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:000000&height=100&section=footer"/>
 </p>
-
-Always building, learning, and improving through code.
