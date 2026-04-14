@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="280" src="YOUR_GIF_URL_HERE" alt="coding gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JmMHpldHNrYXV3Z2k5aWU5OWh4N21hOG83dWh4M2lxZXFmbTh1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XlcHZaLeH29OTvRd1z/giphy.gif" alt="coding gif" />
 
 I'm a passionate developer who enjoys building **efficient, scalable, and visually engaging** web applications. I focus on writing clean code and creating smooth user experiences using modern technologies.
 
