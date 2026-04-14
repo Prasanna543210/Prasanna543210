@@ -7,13 +7,13 @@
 
 ## About Me
 
-<table>
+<table border="0" cellpadding="10">
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="55%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&width=460&lines=Passionate+Full-Stack+Developer;Building+scalable+%26+beautiful+web+apps;Football+player+%7C+Team+Player;Clean+code+%7C+Smooth+UX+%7C+Real+Impact;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&width=440&lines=Passionate+Full-Stack+Developer;Building+scalable+%26+beautiful+web+apps;Football+player+%7C+Team+Player;Clean+code+%7C+Smooth+UX+%7C+Real+Impact;Always+learning%2C+always+growing" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 I'm a passionate developer who enjoys building efficient, scalable, and visually engaging web applications. I focus on writing clean code and creating smooth user experiences using modern technologies.
 
@@ -26,9 +26,9 @@ Whether it's on the field or in front of a screen, I strive to improve, adapt, a
 - I debug code like I defend on the pitch — relentlessly
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggaDSurtR6YN9MsW07/giphy.gif" width="260" alt="coding gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1haXI3NDR6ZWRxcWc4N2Zvb3prZjBnYzR3OTRybnF2cTd0aGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggaDSurtR6YN9MsW07/giphy.gif" width="100%" alt="coding gif" style="border-radius:8px;" />
 
 </td>
 </tr>
